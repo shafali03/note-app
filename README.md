@@ -2,9 +2,7 @@
 
 ```
 As a programmer   
-
 I can see a list of my notes, where each not is abbreviated to the first 20 characters
-
 So I can find the one I want
 ```
 
