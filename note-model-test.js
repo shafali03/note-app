@@ -1,8 +1,7 @@
 
-var note = new Note;
-
 function noteTest() {
+  var note = new Note();
   assert.isTrue(note.text === 'hi')
 }
-console.log(noteTest())
 
+noteTest()
